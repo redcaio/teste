@@ -1,0 +1,44 @@
+#map {
+    height: 100vh;
+    width: screen;
+    z-index: 0;
+}
+
+.navbar-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #EEEAEA;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 65.41px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    z-index: 1000; 
+    border-radius: 2rem 2rem 0 0 ;
+}
+
+.icon-white {
+    filter: brightness(0) invert(1);
+    padding-bottom: 5px;
+}
+
+.icon-menu{
+    width: 30px;
+}
+
+main{
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#navSearch {
+    position: fixed; 
+    top: 50px; 
+    width: calc(100% - 45px); 
+    z-index: 1000; 
+    margin: 20px;
+    border-radius: 10px;
+    padding: 2px;
+}
+

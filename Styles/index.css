@@ -1,0 +1,147 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+  }
+  .container {
+    width: 100%; 
+    margin-bottom: 30px;
+    padding: 0px;
+  }
+  .card-body {
+    padding: 20px;
+    background-color: #141D22;
+    width: 100%;
+    padding-bottom: 70px;
+  }
+
+  .card{
+    border: 0px solid #141D22;
+  }
+  
+  .container-box {
+    
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #eeeaea;
+    height: calc(100% - 30px);
+  }
+  .activity-stats, .activities, .map, .nearby-gyms, .graphic, .date-container {
+    margin-bottom: 20px;
+  }
+  .activity-stats h4, .activities h5, .nearby-gyms h5 {
+    margin-bottom: 10px;
+  }
+  .map img, .graphic img {
+    max-width: 100%;
+    height: auto;
+  }
+  .date {
+    margin-top: 20px;
+  }
+  .date-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .date {
+    flex: 1;
+  }
+  .greeting {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .map {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  #donut-chart {
+    width: min-content;
+    height: min-content; 
+  }
+  .info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .info-container p {
+    margin: 0;
+    padding: 0;
+  }
+  .quadrado {
+    width: 100px;
+    height: 50px; 
+    background-color: #f0f0f0;
+    margin-right: 10px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+  }
+
+  .texto {
+    font-size: 14px;
+  }
+
+  .corrida {
+    background-color: #f8be53;
+  }
+
+  .academia {
+    background-color: #e981e9; 
+  }
+
+  .outros {
+    background-color: #9e9999; 
+  }
+
+  
+  .date-column {
+    min-height: 120px; 
+  }
+  .fonte1{font-size: 11px;}
+  .fonte2{font-family: Arial;font-size: 10px;}
+  .vertical-bar {
+height: 60px;
+width: 2px;
+background-color: #4b4545;
+ }
+ .font-smaller h5,
+.font-smaller p {
+font-size: 20px;
+}
+#donut-chart {
+    width: 100%;
+    height: min-content; 
+  }
+  .map-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .navbar-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #EEEAEA;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 65.41px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    z-index: 1000; 
+    border-radius: 2rem 2rem 0 0 ;
+}
+
+.icon-menu{
+  width: 30px;
+}

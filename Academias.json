@@ -1,0 +1,23 @@
+{
+  "fields": [{"type":"int","id":"_id"},{"type":"text","id":"polo"},{"type":"numeric","id":"rpa"},{"type":"text","id":"logradouro"},{"type":"text","id":"bairro"},{"type":"text","id":"observacao"},{"type":"timestamp","id":"datainauguracao"},{"type":"numeric","id":"latitude"},{"type":"numeric","id":"longitude"}],
+  "records": [
+    [1,"Academia Recife - Polo Hipódromo",2,"Rua Ascenso Ferreira","Hipódromo","Praça do Hipódromo","2015-03-09T00:00:00",-8.031896,-34.8869401],
+    [2,"Academia Recife - Polo Torre",4,"Rua José de Holanda","Torre","Praça da Torre","2014-01-21T00:00:00",-8.0466068,-34.9137394],
+    [3,"Academia Recife - Polo Coque",1,"Rua Água Doce","Ilha Joana Bezerra","Praça de Joana Bezerra","2014-10-21T00:00:00",-8.069215,-34.897036],
+    [4,"Academia Recife - Polo Varzea",4," Av. Afonso Olindense","Várzea"," Praça da Várzea","2015-04-17T00:00:00",-8.0495282,-34.9596545],
+    [5,"Academia Recife - Polo Boa Viagem",6," Av. Boa Viagem"," Boa Viagem"," Segundo Jardim","2015-03-22T00:00:00",-8.1049397,-34.8869953],
+    [6,"Academia Recife - Polo Macaxeira",3,"Av. Norte Miguel Arraes de Alencar S/N","Macaxeira"," Parque Urbano da Macaxeira","2014-07-09T00:00:00",-8.0153181,-34.9322254],
+    [7,"Academia Recife - Polo Santana",3,"Rua Astério Rufino Alves","Santana","Parque Santana","2014-03-15T00:00:00",-8.0423707,-34.916249],
+    [8,"Academia Recife - Polo Santo Amaro",1," Avenida Governador Agamenon Magalhães"," Santo Amaro","próximo ao número 20","2014-02-20T00:00:00",-8.039585,-34.8776891],
+    [9,"Academia Recife - Polo Lagoa do Araçá",6,"Rua Nova Verona S/N","Imbiribeira","Lagoa do Araçá","2013-12-12T00:00:00",-8.0962008,-34.9156977],
+    [10,"Academia Recife - Polo Ipsep",6,"Avenida Sen. Robert Kennedy","Ipsep","Praça Robert Kennedy","2014-07-31T00:00:00",-8.114475,-34.9196486],
+    [11,"Academia Recife - Polo Ibura",6,"Avenida Pernambuco S/N","Ibura","Praça da Maria Sampaio Lucena - COHAB","2014-03-30T00:00:00",-8.117451,-34.9468972],
+    [12,"Academia Recife - Polo Engenho do Meio",4," Rua Manoel Alves Deus Dará","Engenho do Meio","Praça Doutor Arnaldo Assunção","2014-02-10T00:00:00",-8.0571914,-34.9434783],
+    [13,"Academia Recife - Polo Jaqueira",3,"Avenida Rui Barbosa s/n","Jaqueira","Parque da Jaqueira","2014-03-29T00:00:00",-8.0370578,-34.905483],
+    [14,"Academia Recife - Polo Água Fria",2,"Avenida Beberibe","Água Fria","Próximo ao número 3359","2018-01-03T00:00:00",-8.0094149,-34.8892527],
+    [15,"Academia Recife - Polo Barro",5," R. Padre Diogo Rodrigues","Barro","próximo ao número 547","2018-06-28T00:00:00",-8.089663,-34.9403429],
+    [16,"Academia Recife - Polo Santos Dumont",6," Rua Alm. Nelson Fernandes","Boa Viagem"," Centro Esportivo Santos Dumont","2018-01-24T00:00:00",-8.1307901,-34.9099489],
+    [17,"Academia Recife - Polo Guabiraba",3,"Rua das Flores","Guabiraba","Terminal da Guabiraba próx. ao número 2702","2018-03-26T00:00:00",-7.9932713,-34.9387909],
+    [18,"Academia Recife - Polo Casa Amarela",3,"Rua Marino Melo Berenger","Casa Amarela","Próximo ao número 5673","2018-07-05T00:00:00",-8.022238,-34.9180816],
+    [19,"Academia Recife - Polo Mustardinha",5,"Rua Neto Campêlo Júnior","Mustardinha","Praça do ABC","2018-09-04T00:00:00",-8.0730174,-34.9191975]
+]}
